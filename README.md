@@ -1,5 +1,4 @@
-# Fix-Intel-Z8350-for-ubuntu-kubuntu
-Fix Intel Z8350 for ubuntu-kubuntu 18
+# Fix Intel Z8350 for ubuntu/kubuntu 18
 
 # Fix WI-FI:
 * wget https://github.com/artjoma/Fix-Intel-Z8350-for-ubuntu-kubuntu/blob/master/nvram.txt <br/>
